@@ -1,3 +1,4 @@
+# This repository has been moved to [Codeberg](https://codeberg.org/SamMatzko/luanti-subways-dev-assets).
 # Development Assets for [Subways](https://github.com/SamMatzko/minetest-subways)
 
 This repository stores the development assets for [Minetest Subways](https://github.com/SamMatzko/minetest-subways). Contained within are files that are used to develop the mod, but aren't actually used by Minetest when running the mod. This includes GIMP files for the textures and Blender and Goxel files for the models.
